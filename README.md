@@ -31,11 +31,7 @@
 ![download](https://github.com/user-attachments/assets/4d9e118f-0ef6-4644-92d3-1d14d22606bc)
 
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
+## 🧰 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
